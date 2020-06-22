@@ -1,0 +1,35 @@
+
+body {
+    font-family: Verdana;
+}
+form {
+    border: 1.5px solid rgb(161, 172, 19);
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+}
+
+ div {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color:black;
+    text-shadow: 1px 1px blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label {
+    width: 50px;
+    display: inline-block;
+    color:rgb(189, 15, 15);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.DeleteButton{
+    color:red;
+}
+
+
